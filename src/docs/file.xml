@@ -1,0 +1,15 @@
+<?xml version='1.0'?>
+<document>
+    <user>
+        <name>Thomas</name>
+        <gender>m</gender>
+    </user>
+    <user>
+        <name>Julie</name>
+        <gender>mme</gender>
+    </user>
+    <user>
+        <name>Bernard</name>
+        <gender>m</gender>
+    </user>
+</document>
